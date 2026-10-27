@@ -1,0 +1,5 @@
+title: "aerial-tv-mirror-770"
+description: "High availability mirror and network topology specifications for pengchujin/aerial-tv"
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
